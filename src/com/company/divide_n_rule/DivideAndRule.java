@@ -1,7 +1,6 @@
 package com.company.divide_n_rule;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -12,7 +11,7 @@ public class DivideAndRule {
         list.add(2);
         list.add(1);
 
-        System.out.println(counter(list));
+        System.out.println(qsort(list));
     }
 
     private static int findSum(List<Integer> list) {
@@ -24,7 +23,7 @@ public class DivideAndRule {
     }
 
     private static int counter(List<Integer> list) {
-        if (list.size() == 0) {
+        if (list.isEmpty()) {
             return 0;
         } else {
             list.remove(0);
@@ -45,11 +44,12 @@ public class DivideAndRule {
         }
     }
 
-   private static List<Integer> qsort(List<Integer> list) {
+    private static List<Integer> qsort(List<Integer> list) {
         if (list.size() < 2) {
             return list;
         } else {
             int pivot = list.get(0);
+
             List<Integer> left = new ArrayList<>();
             List<Integer> right = new ArrayList<>();
 
@@ -66,8 +66,32 @@ public class DivideAndRule {
             res.add(pivot);
             res.addAll(qsort(right));
 
-            return res;
-        }
 
-   }
+            return res;
+
+        }
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

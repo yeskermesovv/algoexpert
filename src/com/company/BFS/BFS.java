@@ -7,48 +7,43 @@ import java.util.Queue;
 
 public class BFS {
     public static void main(String[] args) {
-        // We need guys
+        // we need guys
         Vertex serik = new Vertex("Serik");
         Vertex marat = new Vertex("Marat");
         Vertex tore = new Vertex("Tore");
         Vertex kate = new Vertex("Kate");
 
-        // Set neighborhood
+        // set neighbors
         serik.neighbors.add(marat);
         serik.neighbors.add(tore);
-        tore.neighbors.add(kate);
+        marat.neighbors.add(kate);
 
-        // define iphoneseller
-       // kate.setIphoneSeller(true);
+        // set mango seller
+        kate.setMangoSeller(true);
 
+        // let the fun begin
         Queue<Vertex> queue = new LinkedList<>();
         List<Vertex> searched = new ArrayList<>();
-
-        // Let the fun begin
         queue.add(serik);
 
-        while(!queue.isEmpty()) {
+        while (!queue.isEmpty()) {
             Vertex person = queue.poll();
+
             if (!searched.contains(person)) {
-                if (person.isIphoneSeller()) {
-                    System.out.println("Ladies and gentlemen, we got him. IphoneSeller: " + person.name);
+                if (person.isMangoSeller) {
+                    System.out.println(person.name);
                     return;
                 }
-                searched.add(person);
                 queue.addAll(person.getNeighbors());
+                searched.add(person);
             }
         }
-        System.out.println("No info found");
     }
-
-
 }
 
 class Vertex {
     String name;
-
-    boolean isIphoneSeller = false;
-
+    boolean isMangoSeller = false;
     List<Vertex> neighbors = new ArrayList<>();
 
     public Vertex(String name) {
@@ -63,6 +58,14 @@ class Vertex {
         this.name = name;
     }
 
+    public boolean isMangoSeller() {
+        return isMangoSeller;
+    }
+
+    public void setMangoSeller(boolean mangoSeller) {
+        isMangoSeller = mangoSeller;
+    }
+
     public List<Vertex> getNeighbors() {
         return neighbors;
     }
@@ -70,13 +73,4 @@ class Vertex {
     public void setNeighbors(List<Vertex> neighbors) {
         this.neighbors = neighbors;
     }
-
-    public boolean isIphoneSeller() {
-        return isIphoneSeller;
-    }
-
-    public void setIphoneSeller(boolean iphoneSeller) {
-        isIphoneSeller = iphoneSeller;
-    }
-
 }
