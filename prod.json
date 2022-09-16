@@ -47147,7 +47147,7 @@
       "requiredRule": "",
       "validationRule": "",
       "readOnlyRule": "",
-      "visibilityRule": "",
+      "visibilityRule": "!context.q('5').some(item => ['09.2'].includes(item))",
       "itemVisibilityRule": "",
       "calculationRule": "",
       "relativeQuestions": [],
