@@ -41135,6 +41135,118 @@
         },
         {
           "cellsFilter": {
+            "38546": "01",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '01.1', '39838': '13', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '11', '39838': '13', '39840':'02' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '01.1', '39838': '13', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '11', '39838': '13', '39840':'03' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '01.1', '39838': '13', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '11', '39838': '13', '39840':'04' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '01.1', '39838': '13', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '11', '39838': '13', '39840':'05' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '01.1', '39838': '14', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '11', '39838': '14', '39840':'02' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '01.1', '39838': '14', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '11', '39838': '14', '39840':'03' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '01.1', '39838': '14', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '11', '39838': '14', '39840':'04' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '01.1', '39838': '14', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '11', '39838': '14', '39840':'05' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
             "38546": "01.1",
             "39838": "10",
             "39840": "02"
@@ -41243,6 +41355,118 @@
           "cellsReadOnlyRule": "",
           "cellsVisibilityRule": "",
           "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '11', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '11', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '11', '39840':'05' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01.1",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'02' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01.1",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'03' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01.1",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'04' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01.1",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'05' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01.1",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'02' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01.1",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'03' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01.1",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'04' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "01.1",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'05' }) ",
           "cellsInputRestrictionRule": ""
         },
         {
@@ -41487,6 +41711,118 @@
         },
         {
           "cellsFilter": {
+            "38546": "02",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '13', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '06', '39838': '13', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '10', '39838': '13', '39840':'02' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "02",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '13', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '06', '39838': '13', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '10', '39838': '13', '39840':'03' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "02",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '13', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '06', '39838': '13', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '10', '39838': '13', '39840':'04' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "02",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '13', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '06', '39838': '13', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '10', '39838': '13', '39840':'05' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "02",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '14', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '06', '39838': '14', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '10', '39838': '14', '39840':'02' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "02",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '14', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '06', '39838': '14', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '10', '39838': '14', '39840':'03' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "02",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '14', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '06', '39838': '14', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '10', '39838': '14', '39840':'04' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "02",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '14', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '06', '39838': '14', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '10', '39838': '14', '39840':'05' }) ",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
             "38546": "03",
             "39838": "10",
             "39840": "02"
@@ -41595,6 +41931,118 @@
           "cellsReadOnlyRule": "",
           "cellsVisibilityRule": "",
           "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '11', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '11', '39840':'05' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "03",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'02' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "03",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'03' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "03",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'04' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "03",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'05' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "03",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'02' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "03",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'03' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "03",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'04' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "03",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'05' })",
           "cellsInputRestrictionRule": ""
         },
         {
@@ -41711,6 +42159,118 @@
         },
         {
           "cellsFilter": {
+            "38546": "04",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '13', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '08', '39838': '13', '39840':'02' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '13', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '08', '39838': '13', '39840':'03' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '13', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '08', '39838': '13', '39840':'04' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '13', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '08', '39838': '13', '39840':'05' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '14', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '08', '39838': '14', '39840':'02' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '14', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '08', '39838': '14', '39840':'03' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '14', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '08', '39838': '14', '39840':'04' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '04.2', '39838': '14', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '08', '39838': '14', '39840':'05' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
             "38546": "11",
             "39838": "10",
             "39840": "02"
@@ -41823,6 +42383,118 @@
         },
         {
           "cellsFilter": {
+            "38546": "11",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '12', '39838': '13', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '13', '39838': '13', '39840':'02' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "11",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '12', '39838': '13', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '13', '39838': '13', '39840':'03' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "11",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '12', '39838': '13', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '13', '39838': '13', '39840':'04' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "11",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '12', '39838': '13', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '13', '39838': '13', '39840':'05' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "11",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '12', '39838': '14', '39840':'02' }) + +context.tableMatrix('7252', { '38546': '13', '39838': '14', '39840':'02' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "11",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '12', '39838': '14', '39840':'03' }) + +context.tableMatrix('7252', { '38546': '13', '39838': '14', '39840':'03' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "11",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '12', '39838': '14', '39840':'04' }) + +context.tableMatrix('7252', { '38546': '13', '39838': '14', '39840':'04' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "11",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "+context.tableMatrix('7252', { '38546': '12', '39838': '14', '39840':'05' }) + +context.tableMatrix('7252', { '38546': '13', '39838': '14', '39840':'05' })",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
             "38546": "06",
             "39838": "10",
             "39840": "02"
@@ -41928,6 +42600,118 @@
           "cellsFilterRule": "",
           "cellsRequiredRule": "",
           "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '11', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '11', '39840':'05' })) &&  'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "06",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'02' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'02' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "06",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'03' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'03' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "06",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'04' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'04' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "06",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'05' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "06",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'02' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'02' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "06",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'03' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'03' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "06",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'04' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'04' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "06",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'05' })) && 'the_above_line'",
           "cellsReadOnlyRule": "",
           "cellsVisibilityRule": "",
           "cellsCalculationRule": "",
@@ -42047,6 +42831,118 @@
         },
         {
           "cellsFilter": {
+            "38546": "07",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'02' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'02' })) && 'the_above_line_teachers'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "07",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'03' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'03' })) && 'the_above_line_teachers'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "07",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'04' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'04' })) && 'the_above_line_teachers'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "07",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '13', '39840':'05' })) && 'the_above_line_teachers'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "07",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'02' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'02' })) && 'the_above_line_teachers'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "07",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'03' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'03' })) && 'the_above_line_teachers'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "07",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'04' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'04' })) && 'the_above_line_teachers'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "07",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '05', '39838': '14', '39840':'05' })) && 'the_above_line_teachers'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
             "38546": "08",
             "39838": "10",
             "39840": "02"
@@ -42152,6 +43048,118 @@
           "cellsFilterRule": "",
           "cellsRequiredRule": "",
           "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '11', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '11', '39840':'05' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "08",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'02' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'02' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "08",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'03' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'03' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "08",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'04' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'04' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "08",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '13', '39840':'05' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "08",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'02' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'02' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "08",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'03' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'03' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "08",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'04' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'04' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "08",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '07', '39838': '14', '39840':'05' })) && 'the_above_line'",
           "cellsReadOnlyRule": "",
           "cellsVisibilityRule": "",
           "cellsCalculationRule": "",
@@ -42271,6 +43279,118 @@
         },
         {
           "cellsFilter": {
+            "38546": "10",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'02' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'02' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "10",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'03' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'03' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "10",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'04' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'04' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "10",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '09', '39838': '13', '39840':'05' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "10",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'02' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'02' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "10",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'03' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'03' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "10",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'04' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'04' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "10",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'05' }) >= +value ? '' : context.hasValue(context.tableMatrix('7252', { '38546': '09', '39838': '14', '39840':'05' })) && 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
             "38546": "04.2",
             "39838": "10",
             "39840": "02"
@@ -42376,6 +43496,118 @@
           "cellsFilterRule": "",
           "cellsRequiredRule": "",
           "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '11', '39840':'05' }) >= +value ? '' : 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04.2",
+            "39838": "13",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'02' }) >= +value ? '' : 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04.2",
+            "39838": "13",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'03' }) >= +value ? '' : 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04.2",
+            "39838": "13",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'04' }) >= +value ? '' : 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04.2",
+            "39838": "13",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '13', '39840':'05' }) >= +value ? '' : 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04.2",
+            "39838": "14",
+            "39840": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'02' }) >= +value ? '' : 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04.2",
+            "39838": "14",
+            "39840": "03"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'03' }) >= +value ? '' : 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04.2",
+            "39838": "14",
+            "39840": "04"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'04' }) >= +value ? '' : 'the_above_line'",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38546": "04.2",
+            "39838": "14",
+            "39840": "05"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "+context.tableMatrix('7252', { '38546': '04.1', '39838': '14', '39840':'05' }) >= +value ? '' : 'the_above_line'",
           "cellsReadOnlyRule": "",
           "cellsVisibilityRule": "",
           "cellsCalculationRule": "",
