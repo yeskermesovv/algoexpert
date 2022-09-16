@@ -4769,6 +4769,42 @@
           "cellsVisibilityRule": "",
           "cellsCalculationRule": "",
           "cellsInputRestrictionRule": "!(iValue.indexOf('0') == '0') ? iValue.split('.')[0].length > 3 || iValue.split('.').length > 1 && iValue.split('.')[1].length > 0 : iValue.split('.')[0].length > 1 || iValue.split('.').length > 1 && iValue.split('.')[1].length > 0"
+        },
+        {
+          "cellsFilter": {
+            "38896": "01"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "false",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38896": "02"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "false",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
+        },
+        {
+          "cellsFilter": {
+            "38896": "09"
+          },
+          "cellsFilterRule": "",
+          "cellsRequiredRule": "",
+          "cellsValidationRule": "",
+          "cellsReadOnlyRule": "",
+          "cellsVisibilityRule": "false",
+          "cellsCalculationRule": "",
+          "cellsInputRestrictionRule": ""
         }
       ],
       "keepIfHidden": false,
