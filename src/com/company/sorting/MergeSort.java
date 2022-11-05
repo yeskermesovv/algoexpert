@@ -11,12 +11,12 @@ public class MergeSort {
     }
 
     public static void mergeSort(int[] array, int length) {
-        if (length < 2) {
+        if (length < 2)
             return;
-        }
+
         int mid = length / 2;
         int[] left = Arrays.copyOfRange(array, 0, mid);
-        int[] right = Arrays.copyOfRange(array, mid, array.length);
+        int[] right = Arrays.copyOfRange(array, mid, length);
 
         mergeSort(left, mid);
         mergeSort(right, length - mid);
