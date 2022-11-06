@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class QuickSort {
 
     public static void main(String[] args) {
-        int[] nums = {2, 1};
+        int[] nums = {3, 2, 1};
 
         quickSort(nums, 0, nums.length - 1);
 
@@ -22,30 +22,25 @@ public class QuickSort {
     }
 
     private static int partition(int[] arr, int begin, int end) {
-        int pivot = arr[end];
-        int i = begin;
+        int pivot = arr[end]; // pivot is the right most element
+        int leftIndex = begin;
 
-        for (int j = begin; j < end; j++) { // ignore pivot
-            if (arr[j] <= pivot) { // if less or equal to pivot
-                int swapTemp = arr[i];
-                arr[i] = arr[j];
-                System.out.println("arr = " + i);
-                arr[j] = swapTemp;
-                System.out.println("swapTemp = " + j);
-                i++;
+        // move to the left side
+        for (int i = begin; i < end; i++) { // ignore pivot
+            if (arr[i] <= pivot) { // if less or equal to pivot
+                int swapTemp = arr[leftIndex];
+                arr[leftIndex] = arr[i];
+                arr[i] = swapTemp;
+                leftIndex++;
             }
         }
 
         // got to the end
 
-        // swap pivot
-        int swapTemp = arr[i];
-        arr[i] = arr[end];
+        // move pivot
+        int swapTemp = arr[leftIndex];
+        arr[leftIndex] = arr[end];
         arr[end] = swapTemp;
-
-        System.out.println("i = " + i);
-        System.out.println("end = " + end);
-
-        return i;
+        return leftIndex;
     }
 }
