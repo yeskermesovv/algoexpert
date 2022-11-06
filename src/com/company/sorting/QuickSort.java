@@ -21,16 +21,16 @@ public class QuickSort {
         }
     }
 
-    private static int partition(int[] arr, int begin, int end) {
-        int pivot = arr[end]; // pivot is the right most element
-        int leftIndex = begin;
+    private static int partition(int[] arr, int startIndex, int endIndex) {
+       int pivot = arr[endIndex];
+       int leftIndex = startIndex;
 
         // move to the left side
-        for (int i = begin; i < end; i++) { // ignore pivot
-            if (arr[i] <= pivot) { // if less or equal to pivot
-                int swapTemp = arr[leftIndex];
+        for (int i = startIndex; i < endIndex; i++) {
+            if (arr[i] <= pivot) {
+                int temp = arr[leftIndex];
                 arr[leftIndex] = arr[i];
-                arr[i] = swapTemp;
+                arr[i] = temp;
                 leftIndex++;
             }
         }
@@ -38,9 +38,9 @@ public class QuickSort {
         // got to the end
 
         // move pivot
-        int swapTemp = arr[leftIndex];
-        arr[leftIndex] = arr[end];
-        arr[end] = swapTemp;
+        int temp = arr[leftIndex];
+        arr[leftIndex] = pivot;
+        arr[endIndex] = temp;
         return leftIndex;
     }
 }
